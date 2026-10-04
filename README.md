@@ -225,3 +225,7 @@ evals go next.
 - **The shop has no accounts and no payments.** Prices display; nothing is charged. Anyone with
   access to the API can publish, and published stems are trusted only after server-side
   sanitizing (`server/stems.ts`).
+
+## License
+
+[AGPL-3.0-or-later](LICENSE) — matching [Strudel](https://strudel.cc/), which mujic is built on.
